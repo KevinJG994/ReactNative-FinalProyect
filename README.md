@@ -19,5 +19,7 @@ Proyecto de aplicación móvil desarrollada con React Native y Expo, implementan
 ### Primera versión
 https://github.com/KevinJG994/ExpoApp-Navegator/assets/96546093/55084ae5-dfd3-4a78-ab85-e0cec3816c7f
 
-### Primera final
+### Versión final
+https://github.com/KevinJG994/ReactNative-FinalProyect/assets/96546093/0ca823a3-d3b0-44cf-8a3b-45118656eef5
+
 
