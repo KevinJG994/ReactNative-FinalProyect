@@ -1,4 +1,4 @@
-# CineAsta Proyect 🚀
+# CineAsta Proyect 🎦
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/SimpleApp-ReactNativeExpo)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/SimpleApp-ReactNativeExpo)
