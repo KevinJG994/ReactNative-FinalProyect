@@ -1,7 +1,7 @@
-# CineAsta Proyect 🎦
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/SimpleApp-ReactNativeExpo)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/SimpleApp-ReactNativeExpo)
+# CineAsta Proyect 🎦
+
 
 Proyecto de aplicación móvil desarrollada con React Native y Expo, implementando navegación, gestor de estado, persistencia de datos y conezion a base de datos Firebase en tiempo real.
 
